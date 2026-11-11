@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%7B%20Mariyame%20Tazi%20%7D&fontSize=46&fontColor=e8e6ff&fontAlignY=42&animation=twinkling&desc=%E2%9A%A1%20Data%20%26%20AI%20Engineer%20%C2%B7%20Pipelines%20%C2%B7%20LLM%20Agents%20%E2%9A%A1&descSize=18&descColor=a5b4fc&descAlignY=68" width="100%" alt="Mariyame Tazi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mariyame%20Tazi&fontSize=46&fontColor=e8e6ff&fontAlignY=42&desc=Data%20%26%20AI%20Engineer&descSize=20&descColor=a5b4fc&descAlignY=68" width="100%" alt="Mariyame Tazi banner" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=640&lines=Reliable+data+pipelines;LLM+agents+in+production;Databricks+%C2%B7+PySpark+%C2%B7+FastAPI;From+raw+data+to+deployed+service" alt="Typing animation" />
 
@@ -133,27 +133,6 @@ flowchart LR
 | Orchestrate pipelines with **Apache Airflow** and model with **dbt** | 🌱 Learning |
 | Cloud data platforms (**AWS / Azure**) and certification | 🌱 Learning |
 | Land my **first Data Engineer / AI Engineer role** | 🎯 Active search |
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mariyme-tazi/Databricks_DE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariyme-tazi&repo=Databricks_DE&theme=tokyonight&hide_border=true" alt="Databricks_DE" />
-      </a>
-      <br/><sub>Medallion architecture · data quality · analytical tables</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mariyme-tazi/NLP-BBC-News-Summarization">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariyme-tazi&repo=NLP-BBC-News-Summarization&theme=tokyonight&hide_border=true" alt="NLP-BBC-News-Summarization" />
-      </a>
-      <br/><sub>BART & T5 summarization · ROUGE evaluation</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
