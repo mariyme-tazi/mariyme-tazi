@@ -1,8 +1,8 @@
 <!-- Bannière -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1f3864,100:0b8793&height=230&section=header&text=Mariyame%20Tazi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer&descSize=22&descAlignY=60" width="100%" alt="Mariyame Tazi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%7B%20Mariyame%20Tazi%20%7D&fontSize=46&fontColor=e8e6ff&fontAlignY=42&animation=twinkling&desc=%E2%9A%A1%20Data%20%26%20AI%20Engineer%20%C2%B7%20Pipelines%20%C2%B7%20LLM%20Agents%20%E2%9A%A1&descSize=18&descColor=a5b4fc&descAlignY=68" width="100%" alt="Mariyame Tazi banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EB5D6&center=true&vCenter=true&width=640&lines=Reliable+data+pipelines;LLM+agents+in+production;Databricks+%C2%B7+PySpark+%C2%B7+FastAPI;From+raw+data+to+deployed+service" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=640&lines=Reliable+data+pipelines;LLM+agents+in+production;Databricks+%C2%B7+PySpark+%C2%B7+FastAPI;From+raw+data+to+deployed+service" alt="Typing animation" />
 
   <br/><br/>
 
@@ -55,28 +55,58 @@ I enjoy turning messy data into systems people can trust through:
 
 ---
 
-## 📈 Areas of Interest
+## 🧭 Where I Like to Work
 
-```mermaid
-mindmap
-  root((Data & AI<br/>Engineering))
-    Data Engineering
-      ETL / ELT pipelines
-      Lakehouse Medallion
-      Data quality & testing
-    Agentic AI
-      Function calling
-      Guardrails & validation
-      LLMs in production
-    Applied ML & NLP
-      Multilingual NLP
-      Computer vision
-      Recommendation systems
-    Analytics & BI
-      KPI dashboards
-      Alerting & monitoring
-      Decision support
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 Data Engineering</h3>
+      <i>"Make data trustworthy before anyone uses it."</i>
+      <ul>
+        <li>ETL / ELT pipelines and scheduling</li>
+        <li>Lakehouse with Medallion layers</li>
+        <li>Data quality checks and automated tests</li>
+      </ul>
+      <img src="https://img.shields.io/badge/focus-pipelines-1F3864?style=flat-square" />
+      <img src="https://img.shields.io/badge/tool-Databricks-FF3621?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic AI</h3>
+      <i>"An agent is only useful if you can trust its actions."</i>
+      <ul>
+        <li>Function calling and tool orchestration</li>
+        <li>Guardrails against hallucination</li>
+        <li>Deploying and monitoring LLMs in production</li>
+      </ul>
+      <img src="https://img.shields.io/badge/focus-LLM%20agents-6D28D9?style=flat-square" />
+      <img src="https://img.shields.io/badge/tool-FastAPI-009688?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ Applied ML & NLP</h3>
+      <i>"Models should work on the data people actually have."</i>
+      <ul>
+        <li>Multilingual NLP (Darija / French / English)</li>
+        <li>Computer vision and tracking</li>
+        <li>Recommendation and classification systems</li>
+      </ul>
+      <img src="https://img.shields.io/badge/focus-NLP-0B8793?style=flat-square" />
+      <img src="https://img.shields.io/badge/tool-scikit--learn-F7931E?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Analytics & BI</h3>
+      <i>"Insights only matter if someone can act on them."</i>
+      <ul>
+        <li>KPI dashboards for business teams</li>
+        <li>Alerting and trend / anomaly tracking</li>
+        <li>Decision support reporting</li>
+      </ul>
+      <img src="https://img.shields.io/badge/focus-dashboards-B8860B?style=flat-square" />
+      <img src="https://img.shields.io/badge/tool-Power%20BI-F2C811?style=flat-square&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
