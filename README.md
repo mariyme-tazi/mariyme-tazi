@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mariyame%20Tazi&fontSize=46&fontColor=e8e6ff&fontAlignY=42&desc=Data%20%26%20AI%20Engineer&descSize=20&descColor=a5b4fc&descAlignY=68" width="100%" alt="Mariyame Tazi banner" />
+  <h1>Mariyame Tazi</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=640&lines=Reliable+data+pipelines;LLM+agents+in+production;Databricks+%C2%B7+PySpark+%C2%B7+FastAPI;From+raw+data+to+deployed+service" alt="Typing animation" />
 
